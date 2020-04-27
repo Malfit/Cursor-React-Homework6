@@ -1,0 +1,11 @@
+.imageContentDiv{
+    height: 250px;
+    width: 700px;
+}
+
+.imageContent{
+    height: 250px;
+    width: auto;
+    margin-left: 80px;
+    border-radius: 15px;
+}

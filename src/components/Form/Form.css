@@ -1,0 +1,33 @@
+.formPost{
+    /* margin-top: 50px; */
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 2px solid #15202b;
+}
+
+.firstGroup{
+    display: flex;
+    flex-direction: column;
+    border: black 0.5px solid;
+}
+.formInput{
+    padding-left: 10px;
+    width: 556px;
+    height: 20px;
+}
+
+.btnPost{
+    width: 75px;
+    height:75px;
+    font-size: 18px;
+    background-color: darkgray;
+    border: black 0.5px solid;
+}
+
+.selectAuthorPost{
+    padding-left: 8px;
+    width: 570px;
+    height: 22px;
+}

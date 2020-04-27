@@ -1,0 +1,20 @@
+
+.postAdditionalBar{
+    height: 30px;
+    width: 700px;
+}
+
+.postAdditionalBar>ul {
+    display: flex;
+    flex-direction: row;
+    
+    margin :12px;
+    margin-left: 80px;
+}
+.postAdditionalBar>ul>li {
+    position: relative;
+    margin-right: 100px;
+    list-style-type: none;
+    color:gray;
+}
+

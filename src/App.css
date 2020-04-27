@@ -1,3 +1,15 @@
+.post{
+  display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ background-color : #15202b;
+ width: 740px;
+ height: 365px;
+ font-family: 'Do Hyeon', sans-serif;
+ margin-top: 25px;
+}
+
 .App {
   text-align: center;
 }
